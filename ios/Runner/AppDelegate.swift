@@ -1,6 +1,6 @@
 import UIKit
 import Flutter
-import CoreMotion
+// import CoreMotion
 
 @UIApplicationMain
 

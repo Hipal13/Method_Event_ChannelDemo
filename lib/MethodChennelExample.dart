@@ -11,7 +11,7 @@ class MethodChannelScreen extends StatefulWidget {
 
 class _MethodChannelScreenState extends State<MethodChannelScreen> {
   String _batteryLevel = 'What is my battery level?';
-  String _osVersion = 'Unknown OS version';
+  String _osVersion = 'My OS version?';
 
   Future<void> _getBatteryLevel() async {
     String batteryLevel;
