@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'MethosChennelExample.dart';
+import 'MethodChennelExample.dart';
 
 
 void main() => runApp(MyApp());
