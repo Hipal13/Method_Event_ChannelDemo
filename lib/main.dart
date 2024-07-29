@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
       home: Scaffold(
         backgroundColor: Colors.grey.shade300,
         appBar: AppBar(
-          title: Text('Battery Level'),
+          title: Text('Method Chennel'),
         ),
         body: Center(
           child: MethodChannelScreen(),
